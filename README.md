@@ -1,6 +1,6 @@
 # Тестовое задание для Senior Frontend Engineer
 
-**Требования**: **https://line-chart-alpha.vercel.app/**
+**Результат**: **https://line-chart-alpha.vercel.app/**
 
 ## Задача
 
